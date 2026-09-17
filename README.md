@@ -1,9 +1,9 @@
 # terinfoprob2026
 idei első bemutató
 ## Idei tanóráim
-' Mérnökgeodézia
-Térinformatikai alkalmazások
-Műholdas helymeghatározás
-Nagyméretarányú térképezés II.
-Fotogrammetria II.
-Felső geodézia
+* Mérnökgeodézia
+* Térinformatikai alkalmazások
+* Műholdas helymeghatározás
+* Nagyméretarányú térképezés II.
+* Fotogrammetria II.
+* Felsőgeodézia
