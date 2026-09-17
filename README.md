@@ -7,3 +7,9 @@ idei első bemutató
 * Nagyméretarányú térképezés II.
 * Fotogrammetria II.
 * Felsőgeodézia
+
+## Tanáraim
+* Kalicz Péter
+* Bazsó Tamás
+* Király Géza
+* Brolly Gábor
